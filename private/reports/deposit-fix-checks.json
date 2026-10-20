@@ -1,0 +1,39 @@
+{
+  "site_url": "https://arabic-trading-preview.lackadaisical-peony.workers.dev",
+  "asset_checks": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "file": "app.js",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "file": "app.css",
+      "status": 200,
+      "matches": true
+    }
+  ],
+  "unit_tests": "10 scenarios plus negative fractional bonus and legacy missing bonus passed",
+  "local_browser": {
+    "pending_balance": 0,
+    "approved_balance": 500,
+    "reload_balance": 500,
+    "wallet_cash": 500,
+    "wallet_bonus": 0
+  },
+  "published_browser": {
+    "pending_balance": 0,
+    "approved_balance": 500,
+    "reload_balance": 500,
+    "wallet_cash": 500,
+    "wallet_bonus": 0,
+    "clear_simulation_labels": true,
+    "real_payments_or_transfers": false
+  },
+  "screenshot": "/workspace/trade-mobile-site/deliverables/deposit-approved-published.png",
+  "origin_changed_from_previous_preview": true
+}

@@ -1,0 +1,46 @@
+{
+  "site_url": "https://arabic-trading-preview.berry-railway.workers.dev",
+  "checks": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "sha256_matches_local": true
+    },
+    {
+      "file": "app.js",
+      "status": 200,
+      "sha256_matches_local": true
+    },
+    {
+      "file": "app.css",
+      "status": 200,
+      "sha256_matches_local": true
+    },
+    {
+      "file": "utilities.css",
+      "status": 200,
+      "sha256_matches_local": true
+    },
+    {
+      "file": "assets/asset-usdjpy.png",
+      "status": 200,
+      "sha256_matches_local": true
+    },
+    {
+      "file": "assets/battle-social-art.png",
+      "status": 200,
+      "sha256_matches_local": true
+    }
+  ],
+  "qa_files_published": false,
+  "browser": {
+    "cloudflare_challenge_passed": true,
+    "main_page_loaded": true,
+    "inventory_opened": true,
+    "inventory_closed_after_animation": true,
+    "all_images_loaded": true,
+    "real_transactions": false,
+    "otc_transition_confirmed_in_this_round": false,
+    "otc_note": "USDHKD and AAPL displayed live quotes during the current hosted checks; the closed-market transition was not observed in this round. OTC remains conditionally implemented and explicitly marked as local simulation."
+  }
+}

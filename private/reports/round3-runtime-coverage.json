@@ -1,0 +1,237 @@
+{
+  "kind": "runtime DOM and native mouse interaction checks, not pixel-difference certification",
+  "viewport": {
+    "width": 430,
+    "height": 788
+  },
+  "source_files": 53,
+  "unique_reference_states": 51,
+  "byte_identical_duplicates": [
+    [
+      "IMG_5077(1).jpg",
+      "IMG_5077(2).jpg"
+    ],
+    [
+      "IMG_5087(1).jpg",
+      "IMG_5087(2).jpg"
+    ]
+  ],
+  "states": [
+    {
+      "reference": "IMG_5033(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5034(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5036(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5037(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5038(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5039(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5040(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5041(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5042(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5043(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5044(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5045(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5046(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5047(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5049(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5050(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5051(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5052(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5053(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5054(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5055(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5056(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5057(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5058(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5059(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5060(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5061(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5062(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5063(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5065(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5066(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5067(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5068(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5071(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5072(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5073(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5074(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5075(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5076(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5077(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5078(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5080(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5081(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5082(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5083(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5084(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5085(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5086(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5087(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5088(1).jpg",
+      "passed": true
+    },
+    {
+      "reference": "IMG_5109(1).jpg",
+      "passed": true
+    }
+  ],
+  "all_visible_images_loaded": true,
+  "horizontal_overflow": false,
+  "financial_mode": "local simulation only; no external transactions",
+  "coverage_note": "Reference 5109 is withdrawal; 5088 is bar chart; 5062 settings; 5065 deposit. No supplied screenshot shows a standalone VIP detail page.",
+  "visual_note": "Original illustrations used for cash, badges, inventory, battle card bodies, result and news, plus source navigation and selected asset icons. Dynamic prices and text sizes/spacing across platforms remain non-identical; no pixel-perfect claim.",
+  "remaining": [
+    "No original font files were provided; typography and some spacing/radii are still approximate.",
+    "Some control icons remain Lucide equivalents rather than original vector assets.",
+    "Personal data is illustrative and simulation notices intentionally differ from source screenshots.",
+    "Live plot shape/prices differ over time by design; this was not a pixel-diff certification.",
+    "Verification/2FA/analytics/VIP explanations outside supplied reference states remain local placeholders, not production services."
+  ]
+}
