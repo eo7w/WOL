@@ -1,0 +1,34 @@
+{
+  "same_url": "https://arabic-trading-preview.neighborly-atrociraptor.workers.dev/?v=69cda821fc41",
+  "removed": [
+    "AI Index",
+    "Football Index",
+    "Luxury Index"
+  ],
+  "asset_count_before": 32,
+  "asset_count_after": 29,
+  "all_other_asset_definitions_unchanged": true,
+  "http_checks": [
+    {
+      "file": "public/index.html",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "file": "public/app.js",
+      "http": 200,
+      "matches": true
+    }
+  ],
+  "browser_asset_count": 29,
+  "removed_names_present": false,
+  "other_assets_with_prices": 29,
+  "selection_test": {
+    "symbol": "GBPUSD",
+    "price": "1.33295",
+    "passed": true
+  },
+  "simulation_balance_preserved": 51250,
+  "screenshot": "/workspace/trade-mobile-site/deliverables/removed-three-assets-same-url.png",
+  "new_public_url_created": false
+}

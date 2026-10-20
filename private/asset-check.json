@@ -1,0 +1,100 @@
+[
+  {
+    "symbol": "EURUSD",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 1.12084
+  },
+  {
+    "symbol": "USDJPY",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 158.2455
+  },
+  {
+    "symbol": "GBPUSD",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 1.332625
+  },
+  {
+    "symbol": "AUDUSD",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 0.69801
+  },
+  {
+    "symbol": "USDCAD",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 1.40903
+  },
+  {
+    "symbol": "USDCNY",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 6.6554
+  },
+  {
+    "symbol": "USDCHF",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 0.825025
+  },
+  {
+    "symbol": "USDHKD",
+    "http": 200,
+    "marketState": "closed",
+    "stale": true,
+    "mid": 7.848255
+  },
+  {
+    "symbol": "EURGBP",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 0.841075
+  },
+  {
+    "symbol": "USDKRW",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 1330.6314
+  },
+  {
+    "symbol": "USTEC",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 29563.7
+  },
+  {
+    "symbol": "AAPL",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 342.93
+  },
+  {
+    "symbol": "BTCUSD",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 82698.2
+  },
+  {
+    "symbol": "XAUUSD",
+    "http": 200,
+    "marketState": "open",
+    "stale": false,
+    "mid": 4168.187
+  }
+]

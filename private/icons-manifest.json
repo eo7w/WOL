@@ -1,0 +1,134 @@
+[
+  {
+    "symbol": "GBPUSD",
+    "original": "IMG_5142.PNG",
+    "icon": "/assets/logos/gbpusd.png",
+    "sha256": "02d0a3d2e0ed4e20fca375f9b4241088725c4d8d9c384998634507bc21e75273"
+  },
+  {
+    "symbol": "EURGBP",
+    "original": "IMG_5143.PNG",
+    "icon": "/assets/logos/eurgbp.png",
+    "sha256": "235721adb897321a054e001cee398099d958e758c6e16fdda4627d61374af327"
+  },
+  {
+    "symbol": "USDBRL",
+    "original": "IMG_5144.PNG",
+    "icon": "/assets/logos/usdbrl.png",
+    "sha256": "361202b856280e95e84c6fbe068e6e723e0ba37b4d6632fa904e403c615cc521"
+  },
+  {
+    "symbol": "USDCAD",
+    "original": "IMG_5145.PNG",
+    "icon": "/assets/logos/usdcad.png",
+    "sha256": "1ecb87b979c798d2d0499e77ea66719922296aaa438319774ece53f907725547"
+  },
+  {
+    "symbol": "AUDUSD",
+    "original": "IMG_5146.PNG",
+    "icon": "/assets/logos/audusd.png",
+    "sha256": "7afe80e02825295c54f9045696bde2b6b91cce22d85e600396ded80b3632b21c"
+  },
+  {
+    "symbol": "USDCHF",
+    "original": "IMG_5148.PNG",
+    "icon": "/assets/logos/usdchf.png",
+    "sha256": "1d3ae159c4530b03be3dbef9c80904066e4ccd6a6b7fa45d0891a8f00613eede"
+  },
+  {
+    "symbol": "AUDCAD",
+    "original": "IMG_5149.PNG",
+    "icon": "/assets/logos/audcad.png",
+    "sha256": "960898ef6246d82d5e14ba0de015b99bd94aac5b54a8775393d9272de0d4e6cc"
+  },
+  {
+    "symbol": "NZDUSD",
+    "original": "IMG_5150.PNG",
+    "icon": "/assets/logos/nzdusd.png",
+    "sha256": "28d25d85d1db5fc25b60fe731be00c078ca9e7876e097bdf65f967750501b59d"
+  },
+  {
+    "symbol": "AUDJPY",
+    "original": "IMG_5151.PNG",
+    "icon": "/assets/logos/audjpy.png",
+    "sha256": "91076c6aced9ccb10cec2a9c63f8bc2344f0180a4635196ef0a5f37342fb0d05"
+  },
+  {
+    "symbol": "GBPCAD",
+    "original": "IMG_5152.PNG",
+    "icon": "/assets/logos/gbpcad.png",
+    "sha256": "f2b4c6c3f44452f929daac60e02867bc466b2f9fc566437b80847d81d15eb363"
+  },
+  {
+    "symbol": "EURJPY",
+    "original": "IMG_5153.PNG",
+    "icon": "/assets/logos/eurjpy.png",
+    "sha256": "5e993c7da60cff95d2b023e678f86488f5dcd317ec3c413b9d4574ac635994ce"
+  },
+  {
+    "symbol": "GBPCHF",
+    "original": "IMG_5154.PNG",
+    "icon": "/assets/logos/gbpchf.png",
+    "sha256": "95fe87dbe02cc3e83069b1f081592143fc135a21b2ac7badfb46260f3d017926"
+  },
+  {
+    "symbol": "EURCHF",
+    "original": "IMG_5155.PNG",
+    "icon": "/assets/logos/eurchf.png",
+    "sha256": "af716f2c6d1add61a03ae3259df443938a110f6a9c2bbf724717014def0359c3"
+  },
+  {
+    "symbol": "AUDCHF",
+    "original": "IMG_5156.PNG",
+    "icon": "/assets/logos/audchf.png",
+    "sha256": "cd9cf5cb6f4c7081c1b6968f0d41e4dccf21f707c1356486855a52fae07fa47a"
+  },
+  {
+    "symbol": "BTCUSD",
+    "original": "IMG_5157.PNG",
+    "icon": "/assets/logos/btcusd.png",
+    "sha256": "764373be821efae7fce9be1a7ef9d3774259d9499a85dd8f5acc959d1d7669fa"
+  },
+  {
+    "symbol": "XAUUSD",
+    "original": "IMG_5161.WEBP",
+    "icon": "/assets/logos/xauusd.webp",
+    "sha256": "8aa69219936a762c2c1c89a2fcb346ac287dc65e7b29da41d09b1f00a482a9ed"
+  },
+  {
+    "symbol": "AAPL",
+    "original": "IMG_5162.WEBP",
+    "icon": "/assets/logos/aapl.webp",
+    "sha256": "54570a78afd79d1ed88b8780613153bdb0413c3bf952774c8ceb7f6050f8a531"
+  },
+  {
+    "symbol": "NVDA",
+    "original": "IMG_5163.WEBP",
+    "icon": "/assets/logos/nvda.webp",
+    "sha256": "7666331918dca75e769dcf0b3165c228fbcbc9492b93dfb2c742567b29b9d892"
+  },
+  {
+    "symbol": "GOOGL",
+    "original": "IMG_5164.WEBP",
+    "icon": "/assets/logos/googl.webp",
+    "sha256": "08475677b52978de6c1e700f244944f70299aceed0a3ec0376a3e36c6394f5e0"
+  },
+  {
+    "symbol": "MSFT",
+    "original": "IMG_5165.WEBP",
+    "icon": "/assets/logos/msft.webp",
+    "sha256": "19dc6acef2a713010b2289b1001c3691447e5c59c2481d20c1944f2763911cff"
+  },
+  {
+    "symbol": "TSLA",
+    "original": "IMG_5166.WEBP",
+    "icon": "/assets/logos/tsla.webp",
+    "sha256": "c82c3c6175d51485ec8023073772d022a1eabfcced8ffbdf77138951c2ed1965"
+  },
+  {
+    "symbol": "XAGUSD",
+    "original": "IMG_5167.WEBP",
+    "icon": "/assets/logos/xagusd.webp",
+    "sha256": "2b48eec7d31aef5d0ca2ddd54c4f25b3801301e1601fb21263d028e562bde9d4"
+  }
+]

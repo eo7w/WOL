@@ -1,0 +1,262 @@
+[
+  {
+    "symbol": "USDJPY",
+    "label": "USD / JPY",
+    "flag": "🇺🇸🇯🇵",
+    "digits": 3,
+    "payout": 80,
+    "icon": "/assets/asset-usdjpy.png"
+  },
+  {
+    "symbol": "EURUSD",
+    "label": "EUR / USD",
+    "flag": "🇪🇺🇺🇸",
+    "digits": 5,
+    "payout": 84,
+    "icon": "/assets/asset-eurusd.png"
+  },
+  {
+    "symbol": "GBPUSD",
+    "label": "GBP / USD",
+    "flag": "🇬🇧🇺🇸",
+    "digits": 5,
+    "payout": 85,
+    "icon": "/assets/logos/gbpusd.png"
+  },
+  {
+    "symbol": "AUDUSD",
+    "label": "AUD / USD",
+    "flag": "🇦🇺🇺🇸",
+    "digits": 5,
+    "payout": 77,
+    "icon": "/assets/logos/audusd.png"
+  },
+  {
+    "symbol": "USDCAD",
+    "label": "USD / CAD",
+    "flag": "🇺🇸🇨🇦",
+    "digits": 5,
+    "payout": 80,
+    "icon": "/assets/logos/usdcad.png"
+  },
+  {
+    "symbol": "USDCNY",
+    "label": "USD / CNY",
+    "flag": "🇺🇸🇨🇳",
+    "digits": 5,
+    "payout": 80,
+    "icon": null
+  },
+  {
+    "symbol": "USDCHF",
+    "label": "USD / CHF",
+    "flag": "🇺🇸🇨🇭",
+    "digits": 5,
+    "payout": 81,
+    "icon": "/assets/logos/usdchf.png"
+  },
+  {
+    "symbol": "USDHKD",
+    "label": "USD / HKD",
+    "flag": "🇺🇸🇭🇰",
+    "digits": 5,
+    "payout": 80,
+    "icon": null
+  },
+  {
+    "symbol": "EURGBP",
+    "label": "EUR / GBP",
+    "flag": "🇪🇺🇬🇧",
+    "digits": 5,
+    "payout": 80,
+    "icon": "/assets/logos/eurgbp.png"
+  },
+  {
+    "symbol": "USDKRW",
+    "label": "USD / KRW",
+    "flag": "🇺🇸🇰🇷",
+    "digits": 2,
+    "payout": 80,
+    "icon": null
+  },
+  {
+    "symbol": "USTEC",
+    "label": "USTEC",
+    "flag": "N",
+    "digits": 2,
+    "payout": 80,
+    "icon": null
+  },
+  {
+    "symbol": "AAPL",
+    "label": "Apple",
+    "flag": "A",
+    "digits": 2,
+    "payout": 80,
+    "icon": "/assets/logos/aapl.webp"
+  },
+  {
+    "symbol": "BTCUSD",
+    "label": "BTC / USD",
+    "flag": "₿",
+    "digits": 2,
+    "payout": 80,
+    "icon": "/assets/logos/btcusd.png"
+  },
+  {
+    "symbol": "XAUUSD",
+    "label": "Gold",
+    "flag": "Au",
+    "digits": 3,
+    "payout": 82,
+    "icon": "/assets/logos/xauusd.webp"
+  },
+  {
+    "symbol": "USDBRL",
+    "label": "USD / BRL",
+    "flag": "🇺🇸🇧🇷",
+    "digits": 4,
+    "payout": 82,
+    "icon": "/assets/logos/usdbrl.png"
+  },
+  {
+    "symbol": "NVDA",
+    "label": "Nvidia",
+    "flag": "N",
+    "digits": 2,
+    "payout": 81,
+    "icon": "/assets/logos/nvda.webp"
+  },
+  {
+    "symbol": "AI_INDEX",
+    "label": "AI Index",
+    "flag": "AI",
+    "digits": 2,
+    "payout": 85,
+    "unavailable": true,
+    "icon": "/assets/asset-ai_index.png"
+  },
+  {
+    "symbol": "GOOGL",
+    "label": "Google (Alphabet)",
+    "flag": "G",
+    "digits": 2,
+    "payout": 84,
+    "icon": "/assets/logos/googl.webp"
+  },
+  {
+    "symbol": "BRENT",
+    "quoteSymbol": "UKOIL",
+    "label": "Brent Oil",
+    "flag": "Oil",
+    "digits": 2,
+    "payout": 83,
+    "icon": "/assets/asset-brent.png"
+  },
+  {
+    "symbol": "FOOTBALL_INDEX",
+    "label": "Football Index",
+    "flag": "⚽",
+    "digits": 2,
+    "payout": 83,
+    "unavailable": true,
+    "icon": "/assets/asset-football_index.png"
+  },
+  {
+    "symbol": "LUXURY_INDEX",
+    "label": "Luxury Index",
+    "flag": "◇",
+    "digits": 2,
+    "payout": 83,
+    "unavailable": true,
+    "icon": "/assets/asset-luxury_index.png"
+  },
+  {
+    "symbol": "AUDCAD",
+    "label": "AUD / CAD",
+    "flag": "🇦🇺🇨🇦",
+    "digits": 5,
+    "payout": 80,
+    "icon": "/assets/logos/audcad.png"
+  },
+  {
+    "symbol": "NZDUSD",
+    "label": "NZD / USD",
+    "flag": "🇳🇿🇺🇸",
+    "digits": 5,
+    "payout": 80,
+    "icon": "/assets/logos/nzdusd.png"
+  },
+  {
+    "symbol": "AUDJPY",
+    "label": "AUD / JPY",
+    "flag": "🇦🇺🇯🇵",
+    "digits": 3,
+    "payout": 80,
+    "icon": "/assets/logos/audjpy.png"
+  },
+  {
+    "symbol": "GBPCAD",
+    "label": "GBP / CAD",
+    "flag": "🇬🇧🇨🇦",
+    "digits": 5,
+    "payout": 80,
+    "icon": "/assets/logos/gbpcad.png"
+  },
+  {
+    "symbol": "EURJPY",
+    "label": "EUR / JPY",
+    "flag": "🇪🇺🇯🇵",
+    "digits": 3,
+    "payout": 80,
+    "icon": "/assets/logos/eurjpy.png"
+  },
+  {
+    "symbol": "GBPCHF",
+    "label": "GBP / CHF",
+    "flag": "🇬🇧🇨🇭",
+    "digits": 5,
+    "payout": 80,
+    "icon": "/assets/logos/gbpchf.png"
+  },
+  {
+    "symbol": "EURCHF",
+    "label": "EUR / CHF",
+    "flag": "🇪🇺🇨🇭",
+    "digits": 5,
+    "payout": 80,
+    "icon": "/assets/logos/eurchf.png"
+  },
+  {
+    "symbol": "AUDCHF",
+    "label": "AUD / CHF",
+    "flag": "🇦🇺🇨🇭",
+    "digits": 5,
+    "payout": 80,
+    "icon": "/assets/logos/audchf.png"
+  },
+  {
+    "symbol": "MSFT",
+    "label": "Microsoft",
+    "flag": "M",
+    "digits": 2,
+    "payout": 80,
+    "icon": "/assets/logos/msft.webp"
+  },
+  {
+    "symbol": "TSLA",
+    "label": "Tesla",
+    "flag": "T",
+    "digits": 2,
+    "payout": 80,
+    "icon": "/assets/logos/tsla.webp"
+  },
+  {
+    "symbol": "XAGUSD",
+    "label": "Silver",
+    "flag": "Ag",
+    "digits": 3,
+    "payout": 80,
+    "icon": "/assets/logos/xagusd.webp"
+  }
+]

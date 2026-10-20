@@ -1,0 +1,11 @@
+{
+  "name": "arabic-trading-preview",
+  "account_id": "58882560cf6899914a5083169505eda4",
+  "compatibility_date": "2026-10-19",
+  "assets": {
+    "directory": "/workspace/trade-mobile-site/public"
+  },
+  "workers_dev": true,
+  "preview_urls": false,
+  "keep_vars": true
+}

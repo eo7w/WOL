@@ -1,0 +1,206 @@
+{
+  "site_url": "https://arabic-trading-preview.neighborly-atrociraptor.workers.dev/?v=69cda821fc41",
+  "same_existing_worker": true,
+  "new_public_url_created": false,
+  "http_asset_checks": [
+    {
+      "symbol": null,
+      "file": "index.html",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": null,
+      "file": "app.js",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": null,
+      "file": "app.css",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "GBPUSD",
+      "file": "assets/logos/gbpusd.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "EURGBP",
+      "file": "assets/logos/eurgbp.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "USDBRL",
+      "file": "assets/logos/usdbrl.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "USDCAD",
+      "file": "assets/logos/usdcad.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "AUDUSD",
+      "file": "assets/logos/audusd.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "USDCHF",
+      "file": "assets/logos/usdchf.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "AUDCAD",
+      "file": "assets/logos/audcad.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "NZDUSD",
+      "file": "assets/logos/nzdusd.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "AUDJPY",
+      "file": "assets/logos/audjpy.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "GBPCAD",
+      "file": "assets/logos/gbpcad.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "EURJPY",
+      "file": "assets/logos/eurjpy.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "GBPCHF",
+      "file": "assets/logos/gbpchf.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "EURCHF",
+      "file": "assets/logos/eurchf.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "AUDCHF",
+      "file": "assets/logos/audchf.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "BTCUSD",
+      "file": "assets/logos/btcusd.png",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "XAUUSD",
+      "file": "assets/logos/xauusd.webp",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "AAPL",
+      "file": "assets/logos/aapl.webp",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "NVDA",
+      "file": "assets/logos/nvda.webp",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "GOOGL",
+      "file": "assets/logos/googl.webp",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "MSFT",
+      "file": "assets/logos/msft.webp",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "TSLA",
+      "file": "assets/logos/tsla.webp",
+      "http": 200,
+      "matches": true
+    },
+    {
+      "symbol": "XAGUSD",
+      "file": "assets/logos/xagusd.webp",
+      "http": 200,
+      "matches": true
+    }
+  ],
+  "original_required_symbols_retained": [
+    "EURUSD",
+    "USDJPY",
+    "GBPUSD",
+    "AUDUSD",
+    "USDCAD",
+    "USDCNY",
+    "USDCHF",
+    "USDHKD",
+    "EURGBP",
+    "USDKRW",
+    "USTEC",
+    "AAPL",
+    "BTCUSD",
+    "XAUUSD"
+  ],
+  "simulation_wallet_tests": 10,
+  "balance_gate_tests": 13,
+  "browser_verified_supplied_icons": 22,
+  "browser_verified_supplied_names_and_positive_prices": 22,
+  "browser_total_assets": 32,
+  "browser_missing_or_broken_supplied_icons": 0,
+  "browser_selection_tests": [
+    {
+      "symbol": "AUDJPY",
+      "passed": true,
+      "price_display": "110.597"
+    },
+    {
+      "symbol": "TSLA",
+      "passed": true,
+      "price_display": "356.12"
+    },
+    {
+      "symbol": "XAGUSD",
+      "passed": true,
+      "price_display": "57.534"
+    },
+    {
+      "symbol": "BTCUSD",
+      "passed": true,
+      "price_display": "82,456.99"
+    }
+  ],
+  "simulation_balance_before_and_after": 51250,
+  "no_trades_or_deposits_performed_during_icon_test": true,
+  "closed_asset_at_test": "GOOGL — السوق مغلق · آخر سعر",
+  "screenshot": "/workspace/trade-mobile-site/deliverables/asset-logos-prices-same-url.png",
+  "new_claim_link_created": false
+}

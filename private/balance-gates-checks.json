@@ -1,0 +1,44 @@
+{
+  "site_url": "https://arabic-trading-preview.neighborly-atrociraptor.workers.dev",
+  "asset_checks": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "file": "app.js",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "file": "app.css",
+      "status": 200,
+      "matches": true
+    }
+  ],
+  "ledger_tests": "13 passed; previous deposit tests 10 passed",
+  "published_browser": {
+    "funded_before": 51250,
+    "trade_amount": 1000,
+    "trade_opened": true,
+    "funded_after_debit": 50250,
+    "insufficient_modal_on_sufficient_trade": false,
+    "social_battle_joined": true,
+    "insufficient_modal_on_sufficient_battle": false,
+    "zero_balance_with_required_1000": {
+      "trade_rejected": true,
+      "battle_rejected": true
+    },
+    "demo_balance_10000_with_required_12000": {
+      "trade_rejected": true,
+      "battle_rejected": true
+    },
+    "balance_after_reload_before_settlement": 50250,
+    "demo_unchanged_by_funded_trade": 10000,
+    "funded_final_after_return": 51250,
+    "real_money_or_payment_services": false
+  },
+  "screenshot": "/workspace/trade-mobile-site/deliverables/balance-gates-success.png",
+  "battle_budget_rule": "Checks current trade stake; joining itself has no invented entry fee."
+}
