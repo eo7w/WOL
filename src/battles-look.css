@@ -58,3 +58,12 @@
 .rewards .rewards-open-battle>.battle-open-meta{flex:1;min-width:0;text-align:center}
 .rewards .rewards-open-battle>.gold-points{flex:none;font-size:15px!important;white-space:nowrap}
 .rewards .rewards-open-battle>button{flex:none!important;width:auto!important;min-width:78px;height:40px;padding:0 18px!important;display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;font-size:15px!important;border-radius:20px!important;background:#8b5cf6!important}
+
+‎/* ===== صف المعركة المفتوحة: ترتيب نظيف بدون خروج عن الإطار ===== */
+.rewards .rewards-open-battle{display:grid!important;grid-template-columns:auto minmax(0,1fr) auto auto!important;align-items:center;gap:8px!important;padding:12px!important;overflow:hidden;box-sizing:border-box}
+.rewards .rewards-open-battle>.battle-owner-tag{font-size:12px!important;padding:5px 9px!important;justify-self:start}
+.rewards .rewards-open-battle>.battle-open-meta{min-width:0;text-align:center}
+.rewards .rewards-open-battle>.battle-open-meta>b{font-size:12px!important;font-weight:600}
+.rewards .rewards-open-battle>.battle-open-meta small{white-space:normal!important;font-size:10.5px!important;margin-top:2px}
+.rewards .rewards-open-battle>.gold-points{font-size:13px!important;justify-self:center}
+.rewards .rewards-open-battle>button{min-width:62px!important;height:36px!important;padding:0 14px!important;font-size:13px!important;justify-self:end}
